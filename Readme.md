@@ -7,8 +7,6 @@ Haz un ***fork*** de este repositorio Crea una **rama** llamada ApellidosNombre,
 
 Crea un fichero txt con ApellidosNombre.txt, por ejemplo PerezGarciaAna.txt y pon dentro tu nombre y apellidos.
 
-Edita el fichero listado.txt y añádete al final.
-
 Sincroniza tus cambios a tu repositorio
 
 Haz un Pull Request de tu rama ApellidosNombre a mi rama dev
